@@ -1,7 +1,7 @@
 # Codebot.Animator
 A program making it easy to draw animations on a canvas.
 
-# What is Animator?
+## What is Animator?
 
 Animator is a cross platform desktop project created to teach students about interpolation using animations and the direct mode canvas class common in many of today's programming environments. It allows students to easily design and add visual animations using a simple plug in architecture.
 
