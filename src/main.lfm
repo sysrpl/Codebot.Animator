@@ -1,0 +1,16 @@
+object AnimateForm: TAnimateForm
+  Left = 333
+  Height = 700
+  Top = 250
+  Width = 900
+  Caption = 'Animations'
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  OnKeyDown = FormKeyDown
+  OnMouseDown = FormMouseDown
+  OnMouseMove = FormMouseMove
+  OnMouseUp = FormMouseUp
+  OnPaint = FormPaint
+  Position = poScreenCenter
+  LCLVersion = '2.0.4.0'
+end

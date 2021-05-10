@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="21">
+      <Unit0>
+        <Filename Value="animator.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="24" Y="19"/>
+        <UsageCount Value="270"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="animatewheel.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="AnimateWheel"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="370"/>
+        <CursorPos Y="401"/>
+        <UsageCount Value="239"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="animateexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="AnimateExample"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="6"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="animatetools.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="AnimateTools"/>
+        <EditorIndex Value="7"/>
+        <UsageCount Value="181"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AnimateForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Main"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="3" Y="18"/>
+        <UsageCount Value="225"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="animatepaint.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="AnimatePaint"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="103"/>
+        <CursorPos X="34" Y="116"/>
+        <UsageCount Value="146"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="animateclipping.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="AnimateClipping"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="33"/>
+        <CursorPos Y="72"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="animateparallax.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="AnimateParallax"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="48"/>
+        <CursorPos X="46" Y="48"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="animateeasings.pas"/>
+        <UnitName Value="AnimateEasings"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="73"/>
+        <CursorPos Y="108"/>
+        <UsageCount Value="28"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="../../Libraries/Cross.Codebot/packages/codebot.animation.pas"/>
+        <UnitName Value="Codebot.Animation"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="424"/>
+        <CursorPos X="31" Y="506"/>
+        <UsageCount Value="24"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="../../../FreePascal/fpc/rtl/objpas/math.pp"/>
+        <UnitName Value="Math"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="89"/>
+        <CursorPos X="10" Y="107"/>
+        <UsageCount Value="17"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="../../Libraries/Cross.Codebot/packages/codebot.graphics.types.pas"/>
+        <UnitName Value="Codebot.Graphics.Types"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="626"/>
+        <CursorPos X="3" Y="626"/>
+        <UsageCount Value="16"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="../../Libraries/Cross.Codebot/packages/codebot.system.pas"/>
+        <UnitName Value="Codebot.System"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="43"/>
+        <CursorPos X="24" Y="61"/>
+        <UsageCount Value="17"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="../../Libraries/Cross.Codebot/packages/codebot.geometry.pas"/>
+        <UnitName Value="Codebot.Geometry"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="884"/>
+        <CursorPos X="25" Y="1008"/>
+        <UsageCount Value="13"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="../../libraries/Cross.Codebot/packages/codebot.graphics.types.pas"/>
+        <UnitName Value="Codebot.Graphics.Types"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="548"/>
+        <CursorPos X="3" Y="554"/>
+        <UsageCount Value="14"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="../../libraries/Cross.Codebot/packages/codebot.graphics.pas"/>
+        <UnitName Value="Codebot.Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="22"/>
+        <CursorPos X="15" Y="33"/>
+        <UsageCount Value="13"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="../../../FreePascal/lazarus/lcl/graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="224"/>
+        <CursorPos X="26" Y="239"/>
+        <UsageCount Value="13"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="../../libraries/Cross.Codebot/packages/codebot.system.pas"/>
+        <UnitName Value="Codebot.System"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="24"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.pas"/>
+        <UnitName Value="Codebot.Graphics"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="70" Y="3"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.types.pas"/>
+        <UnitName Value="Codebot.Graphics.Types"/>
+        <EditorIndex Value="9"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <UnitName Value="Codebot.Graphics.Linux.SurfaceCairo"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="2011"/>
+        <CursorPos Y="2026"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit20>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="2010" Column="34" TopLine="1978"/>
+      </Position1>
+      <Position2>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="2156" TopLine="2119"/>
+      </Position2>
+      <Position3>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+      </Position3>
+      <Position4>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="534" Column="22" TopLine="502"/>
+      </Position4>
+      <Position5>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="2285" TopLine="2250"/>
+      </Position5>
+      <Position6>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="2284" TopLine="2250"/>
+      </Position6>
+      <Position7>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="515" Column="15" TopLine="496"/>
+      </Position7>
+      <Position8>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="2053" Column="8" TopLine="2032"/>
+      </Position8>
+      <Position9>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="516" Column="16" TopLine="496"/>
+      </Position9>
+      <Position10>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="2057" Column="3" TopLine="2033"/>
+      </Position10>
+      <Position11>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="515" Column="15" TopLine="496"/>
+      </Position11>
+      <Position12>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="2060" Column="29" TopLine="2036"/>
+      </Position12>
+      <Position13>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="2058" Column="70" TopLine="2034"/>
+      </Position13>
+      <Position14>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="515" Column="15" TopLine="496"/>
+      </Position14>
+      <Position15>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="2064" Column="5" TopLine="2035"/>
+      </Position15>
+      <Position16>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="2062" Column="9" TopLine="2035"/>
+      </Position16>
+      <Position17>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="515" Column="15" TopLine="496"/>
+      </Position17>
+      <Position18>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="2061" Column="8" TopLine="2033"/>
+      </Position18>
+      <Position19>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+      </Position19>
+      <Position20>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="515" Column="25" TopLine="483"/>
+      </Position20>
+      <Position21>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="1979" Column="23" TopLine="1946"/>
+      </Position21>
+      <Position22>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="515" Column="23" TopLine="498"/>
+      </Position22>
+      <Position23>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="2292" TopLine="2258"/>
+      </Position23>
+      <Position24>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="515" Column="15" TopLine="496"/>
+      </Position24>
+      <Position25>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="2018" Column="3" TopLine="2011"/>
+      </Position25>
+      <Position26>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.pas"/>
+        <Caret Line="421" Column="14" TopLine="407"/>
+      </Position26>
+      <Position27>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="2052" TopLine="2033"/>
+      </Position27>
+      <Position28>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+      </Position28>
+      <Position29>
+        <Filename Value="../../../../Development/Pascal/Libraries/cross.codebot/source/codebot/codebot.graphics.linux.surfacecairo.pas"/>
+        <Caret Line="515" Column="25" TopLine="483"/>
+      </Position29>
+      <Position30>
+        <Filename Value="animator.lpr"/>
+        <Caret Line="19" Column="24"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
